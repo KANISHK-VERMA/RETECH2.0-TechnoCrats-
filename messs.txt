@@ -1,0 +1,18 @@
+ There are two types of users who can use this database system:
+
+*Mess Administrator
+*Mess User
+
+Mess Administrator:
+A mess admin can use this management system to keep track of monthly users of the respective messes and their extras expenditure. A unified EXTRAS database stores the price of all common extras used in messes. The admin can use the interface provided to update the expenditures of the users daily.
+
+Mess User:
+A mess user can use the management system to know his mess details and monthly expenses.
+
+Home page :  This page consist the information regarding mdavv mess managements and here user can sign in or sign up or admin can sign in. After sign up the sign up page opens and here the user have to enter his or her details , whether he/she wants to eat at mess or home delivery and payement details .
+
+sign up page: Here the user have to enter his/her personal details like mobile numbers,adress,mobile number etc for signing up in davv mess.In this page user will also get option whether he/she wants to eat at mess or home delivery .
+
+sign in page: Here the user can sign in and can view the menu of the mess according to days in the week , timmings of the meals and the available food items.
+ 
+
